@@ -53,7 +53,7 @@
               taplo
             ];
           };
-        defaultPackage = package;
+        packages.default = package;
       }
     );
 }
