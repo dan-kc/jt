@@ -27,7 +27,7 @@
           cargo = toolchain;
           rustc = toolchain;
         };
-        pname = "package_name";
+        pname = "jt";
         package = rustPlatform.buildRustPackage {
           inherit pname;
           version = "0.1.0";
