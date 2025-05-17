@@ -47,7 +47,6 @@
                 "rustfmt"
               ])
               rust-analyzer
-              # rust-analyzer-nightly # If you prefer
               nil
               nixfmt-rfc-style
               taplo

@@ -397,17 +397,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4a5f13b858c8d314ee3e8f639011f7ccefe71f97f96e50151fb991f267928e2c"
 
 [[package]]
-name = "journalling-tools"
-version = "0.1.0"
-dependencies = [
- "camino",
- "chrono",
- "clap",
- "dirs",
- "tera",
-]
-
-[[package]]
 name = "js-sys"
 version = "0.3.77"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -415,6 +404,17 @@ checksum = "1cfaf33c695fc6e08064efbc1f72ec937429614f25eef83af942d0e227c3a28f"
 dependencies = [
  "once_cell",
  "wasm-bindgen",
+]
+
+[[package]]
+name = "jt"
+version = "0.1.0"
+dependencies = [
+ "camino",
+ "chrono",
+ "clap",
+ "dirs",
+ "tera",
 ]
 
 [[package]]
