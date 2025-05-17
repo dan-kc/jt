@@ -11,7 +11,9 @@ fn main() -> Result<(), std::io::Error> {
         return std::io::stdout().write_all(file_path.clone().as_os_str().as_encoded_bytes());
     }
 
-    let tera = match tera::Tera::new("templates/*.md") {
+    let mut templates_dir = std::env::var("TEMPLATES_DIR").unwrap();
+    templates_dir.push_str("/*.md");
+    let tera = match tera::Tera::new(templates_dir.as_str()) {
         Ok(t) => t,
         Err(e) => {
             println!("Parsing error(s): {}", e);
@@ -30,6 +32,8 @@ fn main() -> Result<(), std::io::Error> {
     };
     let mut context = tera::Context::new();
     context.insert("workout", workout);
+    // let names: Vec<_> = tera.get_template_names().collect();
+    // dbg!(names);
 
     let str_to_write = tera
         .render("journal.md", &context)

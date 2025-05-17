@@ -33,6 +33,20 @@
           version = "0.1.0";
           src = ./.;
           cargoLock.lockFile = ./Cargo.lock;
+          nativeBuildInputs = [ pkgs.makeWrapper ];
+          buildInputs = [
+            (pkgs.writeText "set-templates-dir" ''
+              export TEMPLATES_DIR=${./templates}
+            '')
+          ];
+          postInstall = ''
+            mkdir -p $out/share/${pname}/templates
+            cp ./templates/* $out/share/${pname}/templates
+          '';
+          postFixup = ''
+            wrapProgram $out/bin/${pname} \
+              --set TEMPLATES_DIR "$out/share/${pname}/templates"
+          '';
         };
       in
       {
@@ -51,6 +65,9 @@
               nixfmt-rfc-style
               taplo
             ];
+            env = {
+              TEMPLATES_DIR = "./templates";
+            };
           };
         packages.default = package;
       }
