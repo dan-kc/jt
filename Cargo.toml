@@ -1,0 +1,11 @@
+[package]
+name = "jt"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+camino = "1.1.9"
+chrono = "0.4.41"
+clap = "4.5.37"
+dirs = "6.0.0"
+tera = "1.20.0"

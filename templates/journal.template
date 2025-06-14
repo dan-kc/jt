@@ -1,0 +1,65 @@
+---
+tags: []
+---
+
+## Schedule
+
+### Before coffee
+
+- [ ] Meditate
+- [ ] Duck feet routine
+- [ ] Floor flexor stretch
+
+### Before leaving out / using phone or laptop
+
+- [ ] Take medication
+- [ ] Starfish
+- [ ] Treat scalp
+- [ ] Chin tucks
+
+### Before sleep
+
+- [ ] Tidy room
+- [ ] Summarise day
+
+### Before shower
+
+- [ ] Moisturise scalp
+- [ ] Wash face
+
+## Anytime
+
+### Studies
+
+- [ ] Read book 10mins
+- [ ] Anki Networking
+- [ ] Anki Terraform
+- [ ] Anki Leetcode
+- [ ] Anki Vocabulary
+- [ ] Anki Terminal
+
+### Workouts
+
+- [ ] Starfish
+- [ ] Chin tucks
+- [ ] Hand stretches
+- [ ] Deep squat stretch
+- [ ] Hang from bar
+- [ ] Head lean
+{% if workout=="core" -%}
+- [ ] Bycicle crunches
+- [ ] Plank
+- [ ] Russian Twists
+{% elif workout=="legs" -%}
+- [ ] Kettle bell swings
+- [ ] Bulgarian split squats
+- [ ] Deep squat raise
+{% elif workout=="back" -%}
+- [ ] Pullups
+- [ ] Pullups
+- [ ] Pullups
+{% else -%}
+Chillout today
+{% endif %}
+
+## Summary
