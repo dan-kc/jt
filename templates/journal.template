@@ -6,15 +6,16 @@ tags: []
 
 ### Before coffee
 
-- [ ] Meditate
-- [ ] Duck feet routine
+- [ ] Nose spray
+- [ ] Eye drops
 - [ ] Floor flexor stretch
+- [ ] Duck feet routine
+- [ ] Meditate
 
 ### Before leaving out / using phone or laptop
 
 - [ ] Take medication
 - [ ] Starfish
-- [ ] Treat scalp
 - [ ] Chin tucks
 
 ### Before sleep
@@ -40,21 +41,30 @@ tags: []
 
 ### Workouts
 
+#### General
+
+- [ ] Neck stretch v1
+- [ ] Neck stretch v2
 - [ ] Starfish
 - [ ] Chin tucks
 - [ ] Hand stretches
 - [ ] Deep squat stretch
 - [ ] Hang from bar
 - [ ] Head lean
+- [ ] Asian squat
+
 {% if workout=="core" -%}
+#### Core
 - [ ] Bycicle crunches
 - [ ] Plank
 - [ ] Russian Twists
 {% elif workout=="legs" -%}
+#### Legs
 - [ ] Kettle bell swings
 - [ ] Bulgarian split squats
 - [ ] Deep squat raise
 {% elif workout=="back" -%}
+#### Back
 - [ ] Pullups
 - [ ] Pullups
 - [ ] Pullups
