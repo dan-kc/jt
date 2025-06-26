@@ -7,9 +7,11 @@ tags: []
 ### Before coffee
 
 - [ ] Nose spray
+- [ ] Wash face
 - [ ] Eye drops
 - [ ] Floor flexor stretch
-- [ ] Duck feet routine
+- [ ] Brettzel Stretch
+- [ ] Clam shells
 - [ ] Meditate
 
 ### Before leaving out / using phone or laptop
@@ -26,7 +28,6 @@ tags: []
 ### Before shower
 
 - [ ] Moisturise scalp
-- [ ] Wash face
 
 ## Anytime
 
@@ -55,15 +56,18 @@ tags: []
 
 {% if workout=="core" -%}
 #### Core
+
 - [ ] Bycicle crunches
 - [ ] Plank
 - [ ] Russian Twists
 {% elif workout=="legs" -%}
 #### Legs
+
 - [ ] Kettle bell swings
 - [ ] Bulgarian split squats
 - [ ] Deep squat raise
 {% elif workout=="back" -%}
+
 #### Back
 - [ ] Pullups
 - [ ] Pullups
