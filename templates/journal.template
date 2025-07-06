@@ -22,14 +22,24 @@ tags: []
 - [ ] Starfish
 - [ ] Chin tucks
 
-### Before sleep
+### Before meal #1
 
-- [ ] Tidy room
-- [ ] Summarise day
+- [ ] Hip mobility routine
+- [ ] Hand stretches
+
+### Before meal #2
+
+- [ ] Neck stretch v1
+- [ ] Neck stretch v2
 
 ### Before shower
 
 - [ ] Moisturise scalp
+
+### Before sleep
+
+- [ ] Tidy room
+- [ ] Summarise day
 
 ## Anytime
 
@@ -46,11 +56,8 @@ tags: []
 
 #### General
 
-- [ ] Neck stretch v1
-- [ ] Neck stretch v2
 - [ ] Starfish
 - [ ] Chin tucks
-- [ ] Hand stretches
 - [ ] Deep squat stretch
 - [ ] Hang from bar
 - [ ] Head lean
@@ -66,15 +73,15 @@ tags: []
 #### Legs
 
 - [ ] Kettle bell swings
+- [ ] Kettle bell swings
 - [ ] Bulgarian split squats
-- [ ] Deep squat raise
 {% elif workout=="back" -%}
 
 #### Back
 
 - [ ] Pullups
 - [ ] Pullups
-- [ ] Pullups
+- [ ] Superman thumbs up arms wide, legs wideish
 - [ ] Superman thumbs up arms wide, legs wideish
 {% else -%}
 Chillout today
