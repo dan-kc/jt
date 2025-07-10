@@ -9,11 +9,11 @@ tags: []
 - [ ] Nose spray
 - [ ] Wash face
 - [ ] Eye drops
-- [ ] Floor flexor stretch
-- [ ] Brettzel Stretch
-- [ ] Clam shells
-- [ ] Hip thrust knees together
-- [ ] Tibia reps
+- [ ] Yoga flexor stretch (3 min each side)
+- [ ] 90/90 press into leg
+- [ ] 90/90 lift into hand
+- [ ] 90/90 lift hind leg
+- [ ] Yoga flexor stretch (3 min each side)
 - [ ] Meditate
 
 ### Before leaving out / using phone or laptop
@@ -24,7 +24,6 @@ tags: []
 
 ### Before meal #1
 
-- [ ] Hip mobility routine
 - [ ] Hand stretches
 
 ### Before meal #2
@@ -62,6 +61,10 @@ tags: []
 - [ ] Hang from bar
 - [ ] Head lean
 - [ ] Asian squat
+- [ ] Brettzel Stretch
+- [ ] Clam shells
+- [ ] Hip thrust knees together
+- [ ] Tibia reps
 
 {% if workout=="core" -%}
 #### Core
