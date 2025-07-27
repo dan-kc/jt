@@ -10,16 +10,36 @@ tags: []
 - [ ] Wash face
 - [ ] Eye drops
 - [ ] Yoga flexor stretch (3 min each side)
+{% if workout=="core" -%}
+- [ ] Bycicle crunches
+- [ ] Abs hold
+- [ ] Plank
+- [ ] Russian Twists
+{% elif workout=="legs" -%}
+- [ ] Bulgarian split squats
+- [ ] Kettle bell swings
+- [ ] Bulgarian split squats
+- [ ] Kettle bell swings
+{% elif workout=="back" -%}
+- [ ] Pullups
+- [ ] Iron man fly
+- [ ] Superman
+- [ ] Boat lifts
+{% else -%}
+{# Hips -#}
 - [ ] Sitting band internal rotators
-- [ ] 90/90 lift hind leg
-- [ ] Meditate pose
+- [ ] 90/90 lift hind leg (left)
+- [ ] 90/90 lift hind leg (right)
+- [ ] Lumbar stretch
+{% endif -%}
 - [ ] Meditate
 
 ### Before leaving out / using phone or laptop
 
-- [ ] Take medication
-- [ ] Starfish
+- [ ] Neck stretch v1
+- [ ] Neck stretch v2
 - [ ] Chin tucks
+- [ ] Take medication
 
 ### Before meal #1
 
@@ -27,8 +47,7 @@ tags: []
 
 ### Before meal #2
 
-- [ ] Neck stretch v1
-- [ ] Neck stretch v2
+- [ ] Assisted squat
 
 ### Before shower
 
@@ -36,10 +55,10 @@ tags: []
 
 ### Before sleep
 
+- [ ] Make shakes
 - [ ] Tidy room
+- [ ] Grind coffee
 - [ ] Summarise day
-
-## Anytime
 
 ### Studies
 
@@ -49,44 +68,5 @@ tags: []
 - [ ] Anki Leetcode
 - [ ] Anki Vocabulary
 - [ ] Anki Terminal
-
-### Workouts
-
-#### General
-
-- [ ] Starfish
-- [ ] Chin tucks
-- [ ] Deep squat stretch
-- [ ] Hang from bar
-- [ ] Head lean
-- [ ] Asian squat
-- [ ] Brettzel Stretch
-- [ ] Clam shells
-- [ ] Hip thrust knees together
-- [ ] Tibia reps
-
-{% if workout=="core" -%}
-#### Core
-
-- [ ] Bycicle crunches
-- [ ] Plank
-- [ ] Russian Twists
-{% elif workout=="legs" -%}
-#### Legs
-
-- [ ] Kettle bell swings
-- [ ] Kettle bell swings
-- [ ] Bulgarian split squats
-{% elif workout=="back" -%}
-
-#### Back
-
-- [ ] Pullups
-- [ ] Pullups
-- [ ] Superman thumbs up arms wide, legs wideish
-- [ ] Superman thumbs up arms wide, legs wideish
-{% else -%}
-Chillout today
-{% endif %}
 
 ## Summary

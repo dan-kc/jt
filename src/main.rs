@@ -21,15 +21,18 @@ fn main() -> Result<(), std::io::Error> {
         }
     };
 
-    let workout = match chrono::Local::now().weekday() {
-        chrono::Weekday::Sun => "core",
-        chrono::Weekday::Mon => "legs",
-        chrono::Weekday::Tue => "back",
-        chrono::Weekday::Wed => "core",
-        chrono::Weekday::Thu => "",
-        chrono::Weekday::Fri => "legs",
-        chrono::Weekday::Sat => "back",
+    // # Core / Legs / Back / Hips
+    let current_day_of_year = chrono::Utc::now().ordinal();
+    let number_of_workouts = 4 as u32;
+    let day_idx = current_day_of_year % number_of_workouts;
+    let workout = match day_idx {
+        0 => "core",
+        1 => "legs",
+        2 => "back",
+        3 => "hips",
+        _ => panic!(),
     };
+
     let mut context = tera::Context::new();
     context.insert("workout", workout);
 
