@@ -10,6 +10,7 @@ tags: []
 - [ ] Wash face
 - [ ] Eye drops
 - [ ] Yoga flexor stretch (3 min each side)
+- [ ] Pelvis stretch (3 mins)
 {% if workout=="core" -%}
 - [ ] Bycicle crunches
 - [ ] Abs hold
