@@ -10,7 +10,7 @@ tags: []
 - [ ] Wash face
 - [ ] Eye drops
 - [ ] Yoga flexor stretch (3 min each side)
-- [ ] Pelvis stretch (3 mins)
+- [ ] Pelvis stretch (2 mins)
 {% if workout=="core" -%}
 - [ ] Bycicle crunches
 - [ ] Abs hold
@@ -22,10 +22,15 @@ tags: []
 - [ ] Bulgarian split squats
 - [ ] Kettle bell swings
 {% elif workout=="back" -%}
+- [ ] Pulse rows
+- [ ] Rotational row kettle bell
+- [ ] Close overhand rows Kettle bell 
 - [ ] Pullups
-- [ ] Iron man fly
-- [ ] Superman
-- [ ] Boat lifts
+{% elif workout=="feet" -%}
+- [ ] Tibia kettle bell curls
+- [ ] Towel crunch
+- [ ] Tibia kettle bell curls
+- [ ] Towel crunch
 {% else -%}
 {# Hips -#}
 - [ ] Sitting band internal rotators
