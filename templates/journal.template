@@ -34,10 +34,10 @@ tags: []
 - [ ] Towel crunch
 {% else -%}
 {# Hips -#}
-- [ ] Sitting band internal rotators
+- [ ] Laying band internal rotators
 - [ ] 90/90 lift hind leg (left)
 - [ ] 90/90 lift hind leg (right)
-- [ ] Lumbar stretch
+- [ ] Laying band internal rotators
 {% endif -%}
 - [ ] Meditate
 
@@ -48,12 +48,10 @@ tags: []
 - [ ] Chin tucks
 - [ ] Take medication
 
-### Before meal #1
+### Before meal
 
+- [ ] Starfish
 - [ ] Hand stretches
-
-### Before meal #2
-
 - [ ] Assisted squat
 
 ### Before shower
@@ -62,6 +60,7 @@ tags: []
 
 ### Before sleep
 
+- [ ] MA
 - [ ] Make shakes
 - [ ] Tidy room
 - [ ] Grind coffee
