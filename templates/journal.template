@@ -10,8 +10,11 @@ tags: []
 - [ ] Wash face
 - [ ] Eye drops
 - [ ] Yoga flexor stretch (3 min each side)
-- [ ] Pelvis stretch (2 mins)
+- [ ] Band stretch (2 mins)
 - [ ] 90 / 90 adapted (3 mins each side)
+- [ ] Meditate
+
+### Before drink 1
 {% if workout=="core" -%}
 - [ ] Bycicle crunches
 - [ ] Abs hold
@@ -39,20 +42,23 @@ tags: []
 - [ ] 90/90 lift hind leg (right)
 - [ ] Laying band internal rotators
 {% endif -%}
-- [ ] Meditate
 
 ### Before leaving out / using phone or laptop
 
 - [ ] Neck stretch v1
 - [ ] Neck stretch v2
-- [ ] Chin tucks
+- [ ] Hand stretches
 - [ ] Take medication
+
+### Before drink 2
+
+- [ ] Starfish
+- [ ] Chin tucks
 
 ### Before meal
 
-- [ ] Starfish
-- [ ] Hand stretches
-- [ ] Assisted squat
+- [ ] Assisted squat (2 mins)
+- [ ] Chin tucks
 
 ### Before shower
 
