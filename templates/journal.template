@@ -10,11 +10,12 @@ tags: []
 - [ ] Wash face
 - [ ] Eye drops
 - [ ] Yoga flexor stretch (3 min each side)
-- [ ] Band stretch (2 mins)
+- [ ] Pelvis stretch (2 mins)
 - [ ] 90 / 90 adapted (3 mins each side)
 - [ ] Meditate
 
 ### Before drink 1
+
 {% if workout=="core" -%}
 - [ ] Bycicle crunches
 - [ ] Abs hold
@@ -25,24 +26,12 @@ tags: []
 - [ ] Kettle bell swings
 - [ ] Bulgarian split squats
 - [ ] Kettle bell swings
-{% elif workout=="back" -%}
-- [ ] Pulse rows
-- [ ] Rotational row kettle bell
-- [ ] Close overhand rows Kettle bell 
-- [ ] Pullups
-{% elif workout=="feet" -%}
-- [ ] Tibia kettle bell curls
-- [ ] Towel crunch
-- [ ] Tibia kettle bell curls
-- [ ] Towel crunch
 {% else -%}
-{# Hips -#}
-- [ ] Laying band internal rotators
-- [ ] 90/90 lift hind leg (left)
-- [ ] 90/90 lift hind leg (right)
-- [ ] Laying band internal rotators
+- [ ] Y raise
+- [ ] Band workout
+- [ ] Single hand kettle bell row
+- [ ] Single hand kettle bell row
 {% endif -%}
-
 ### Before leaving out / using phone or laptop
 
 - [ ] Neck stretch v1
@@ -52,16 +41,22 @@ tags: []
 
 ### Before drink 2
 
+- [ ] Tibia kettle bell curls
+- [ ] Towel crunch
 - [ ] Starfish
 - [ ] Chin tucks
 
 ### Before meal
 
+- [ ] 90/90 lift hind leg (left)
+- [ ] 90/90 lift hind leg (right)
 - [ ] Assisted squat (2 mins)
 - [ ] Chin tucks
 
 ### Before shower
 
+- [ ] Tighten back
+- [ ] Laying band internal rotators
 - [ ] Moisturise scalp
 
 ### Before sleep

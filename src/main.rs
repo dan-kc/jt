@@ -23,14 +23,14 @@ fn main() -> Result<(), std::io::Error> {
 
     // # Core / Legs / Back / Hips
     let current_day_of_year = chrono::Utc::now().ordinal();
-    let number_of_workouts = 5 as u32;
+    let number_of_workouts = 3 as u32;
     let day_idx = current_day_of_year % number_of_workouts;
     let workout = match day_idx {
         0 => "core",
         1 => "legs",
         2 => "back",
-        3 => "feet",
-        4 => "hips",
+        // 3 => "feet",
+        // 4 => "hips",
         _ => panic!(),
     };
 
