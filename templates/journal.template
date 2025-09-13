@@ -6,9 +6,7 @@ tags: []
 
 ### Before coffee
 
-- [ ] Nose spray
 - [ ] Wash face
-- [ ] Eye drops
 - [ ] Yoga flexor stretch (3 min each side)
 - [ ] Pelvis stretch (2 mins)
 - [ ] 90 / 90 adapted (3 mins each side)
@@ -21,16 +19,19 @@ tags: []
 - [ ] Abs hold
 - [ ] Plank
 - [ ] Russian Twists
+
 {% elif workout=="legs" -%}
 - [ ] Bulgarian split squats
 - [ ] Kettle bell swings
 - [ ] Bulgarian split squats
 - [ ] Kettle bell swings
+
 {% else -%}
 - [ ] Y raise
 - [ ] Band workout
 - [ ] Single hand kettle bell row
 - [ ] Single hand kettle bell row
+
 {% endif -%}
 
 ### Before leaving out / using phone or laptop
@@ -40,33 +41,26 @@ tags: []
 - [ ] Hand stretches
 - [ ] Take medication
 
-### Before coffee 2
+### Before drink/coffee 2
 
 - [ ] Tibia kettle bell curls
 - [ ] Tibia kettle bell curls
-
-### Before drink 2
-
 - [ ] Towel crunch
 - [ ] Starfish
 - [ ] Chin tucks
 
 ### Before meal
 
-- [ ] 90/90 lift hind leg (left)
-- [ ] 90/90 lift hind leg (right)
-- [ ] Assisted squat (2 mins)
+- [ ] Starfish
 - [ ] Chin tucks
 
 ### Before shower
 
 - [ ] Tighten back
-- [ ] Laying band internal rotators
 - [ ] Moisturise scalp
 
 ### Before sleep
 
-- [ ] MA
 - [ ] Make shakes
 - [ ] Tidy room
 - [ ] Grind coffee
