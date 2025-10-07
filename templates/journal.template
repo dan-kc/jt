@@ -14,25 +14,14 @@ tags: []
 
 ### Before drink 1
 
-{% if workout=="core" -%}
-- [ ] Bycicle crunches
-- [ ] Abs hold
-- [ ] Plank
-- [ ] Russian Twists
-
-{% elif workout=="legs" -%}
-- [ ] Glute bridges
-- [ ] Glute bridges
-- [ ] Clam shells
-- [ ] Clam shells
-
-{% else -%}
+- [ ] Tibia kettle bell curls left
+- [ ] Tibia kettle bell curls right
 - [ ] Starfish
-- [ ] Starfish
-- [ ] Y raise
-- [ ] Band pull-aparts
-
-{% endif -%}
+- [ ] Chin tuck glute squeeze
+- [ ] Clam shells with light band left 
+- [ ] Clam shells with light band right
+- [ ] Side lying hip abduction left
+- [ ] Side lying hip abduction right
 
 ### Before leaving out / using phone or laptop
 
@@ -43,11 +32,25 @@ tags: []
 
 ### Before drink/coffee 2
 
-- [ ] Tibia kettle bell curls
-- [ ] Tibia kettle bell curls
-- [ ] Clam shells
+{% if workout=="core" -%}
+- [ ] Bycicle crunches
+- [ ] Abs hold
+- [ ] Plank
+- [ ] Russian Twists
+
+{% elif workout=="legs" -%}
+- [ ] Glute bridges left
+- [ ] Glute bridges right
+- [ ] Side lying hip abduction left
+- [ ] Side lying hip abduction right
+
+{% else -%}
 - [ ] Starfish
-- [ ] Chin tuck glute squeeze
+- [ ] Starfish
+- [ ] Y raise
+- [ ] Band pull-aparts
+
+{% endif -%}
 
 ### Before meal
 
