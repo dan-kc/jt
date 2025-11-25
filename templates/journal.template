@@ -39,20 +39,18 @@ tags: []
 - [ ] Abs hold
 - [ ] Plank
 - [ ] Russian Twists
-
 {% elif workout=="legs" -%}
 - [ ] Glute bridges left
 - [ ] Glute bridges right
 - [ ] 90 / 90 lift left
 - [ ] 90 / 90 lift right
-
 {% else -%}
 - [ ] Starfish
 - [ ] Starfish
 - [ ] Y raise
 - [ ] Floor pull kettle bells
-
 {% endif -%}
+- [ ] 100 Kettle bell swings
 
 ### Before sleep
 
