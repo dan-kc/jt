@@ -2,6 +2,12 @@
 tags: []
 ---
 
+{% if todo_content -%}
+## Todo
+
+{{ todo_content }}
+
+{% endif -%}
 ## Schedule
 
 ### Before meal 1 + coffee 1
