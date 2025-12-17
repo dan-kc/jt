@@ -1,6 +1,6 @@
+use chrono::Datelike;
 use std::io::Write;
 
-use chrono::Datelike;
 fn main() -> Result<(), std::io::Error> {
     // Return the file path of todays note (creating it if it doesn't exist)
     let current_date = chrono::Local::now().format("%Y-%m-%d").to_string();
@@ -29,8 +29,6 @@ fn main() -> Result<(), std::io::Error> {
         0 => "core",
         1 => "legs",
         2 => "back",
-        // 3 => "feet",
-        // 4 => "hips",
         _ => panic!(),
     };
 
