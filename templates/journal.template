@@ -4,28 +4,29 @@ tags: []
 
 ## Schedule
 
-### Before coffee
+### Before meal 1 + coffee 1
 
-- [ ] Take iron
+- [ ] Take iron (1 vit c + iron, 3 iron)
 - [ ] Apply minox
 - [ ] Wash face
-- [ ] Yoga flexor stretch left
-- [ ] Yoga flexor stretch right
-- [ ] Pelvis stretch
-- [ ] Hamstring stretch
-- [ ] Wall lean
-- [ ] Meditate
 
-### Before drink 1
-
-- [ ] Tibia kettle bell curls left
-- [ ] Tibia kettle bell curls right
-- [ ] Starfish
-- [ ] Chin tuck glute squeeze
 - [ ] Clam shells with light band left 
 - [ ] Clam shells with light band right
 - [ ] 90 / 90 lift left
 - [ ] 90 / 90 lift right
+
+- [ ] Tibia kettle bell curls left
+- [ ] Tibia kettle bell curls right
+- [ ] Starfish
+- [ ] Chin tuck wall lean
+
+- [ ] Yoga flexor stretch left
+- [ ] Yoga flexor stretch right
+- [ ] Squat with weight
+- [ ] Hamstring stretch
+- [ ] Chin tuck wall lean
+
+- [ ] Meditate
 
 ### Before leaving out / using phone or laptop
 
@@ -34,7 +35,7 @@ tags: []
 - [ ] Hand stretches
 - [ ] Take medication
 
-### Before drink/coffee 2
+### Before meal 2 + coffee 2
 
 {% if workout=="core" -%}
 - [ ] Bycicle crunches
@@ -50,12 +51,17 @@ tags: []
 - [ ] Starfish
 - [ ] Starfish
 - [ ] Y raise
-- [ ] Floor pull kettle bells
+- [ ] Floor kettle bell pull 
 {% endif -%}
 - [ ] 100 Kettle bell swings
 
+### Before meal 3
+
+- [ ] Take vit D
+
 ### Before sleep
 
+- [ ] Floss
 - [ ] Apply minox
 - [ ] Make shakes
 - [ ] Tidy room
@@ -63,11 +69,8 @@ tags: []
 - [ ] Summarise day
 - [ ] Setup pillows
 - [ ] Apply mouth and nose bridge tape
-- [ ] Take iron
 - [ ] Open Anki
 
 ## Summary
-
-### What I did
 
 ### What I want to do tomorrow
