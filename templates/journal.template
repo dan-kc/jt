@@ -4,32 +4,24 @@ tags: []
 
 ## Schedule
 
-### Before meal 1 + coffee 1
+### Before meal & coffee
 
-- [ ] Take iron (1 vit c + iron, 3 iron)
+- [ ] Take medication
 - [ ] Apply minox
 - [ ] Wash face
-
 - [ ] Chin tucks
-- [ ] 20 Kettle bell lifts
-
-- [ ] Yoga flexor stretch left
-- [ ] Yoga flexor stretch right
-- [ ] Squat with weight
-- [ ] Hamstring stretch
-- [ ] Chin tuck wall lean
-
-- [ ] Meditate
+- [ ] 20 Kettle bell pulls
+- [ ] Anki until 7AM
 
 ### Before leaving out / using phone or laptop
 
 - [ ] Neck stretch v1
 - [ ] Neck stretch v2
 - [ ] Hand stretches
-- [ ] Take medication
 
 ### Before meal 2 + coffee 2
 
+- [ ] Take medication
 {% if workout=="core" -%}
 - [ ] Bycicle crunches
 - [ ] Abs hold
@@ -46,11 +38,11 @@ tags: []
 - [ ] Y raise
 - [ ] Floor kettle bell pull 
 {% endif -%}
-- [ ] 50 Kettle bell lifts
+- [ ] 20 Kettle bell lifts
 
 ### Before meal 3
 
-- [ ] Take vit D
+- [ ] Take medication
 - [ ] Chin tucks
 
 # Before coke
@@ -62,18 +54,17 @@ tags: []
 
 - [ ] 90 / 90 lift left
 - [ ] 90 / 90 lift right
-- [ ] Twist inside tibia lunge left
-- [ ] Twist inside tibia lunge left
+- [ ] Squats
+- [ ] Lunges
 
 ### Before sleep
 
+- [ ] Take medication
 - [ ] Floss
 - [ ] Apply minox
 - [ ] Make shakes
 - [ ] Tidy room
 - [ ] Grind coffee
-- [ ] Summarise day
 - [ ] Apply mouth and nose bridge tape
-- [ ] Open Anki
-
-## Summary
+- [ ] Fill water
+- [ ] Plan day ahea
