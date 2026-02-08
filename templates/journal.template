@@ -9,9 +9,8 @@ tags: []
 - [ ] Take medication
 - [ ] Apply minox
 - [ ] Wash face
-- [ ] Chin tucks
+- [ ] Chin tuck glute sqeeze 3 mins
 - [ ] 20 Kettle bell pulls
-- [ ] Anki until 7AM
 
 ### Before leaving out / using phone or laptop
 
@@ -24,47 +23,35 @@ tags: []
 - [ ] Take medication
 {% if workout=="core" -%}
 - [ ] Bycicle crunches
-- [ ] Abs hold
 - [ ] Plank
 - [ ] Russian Twists
 {% elif workout=="legs" -%}
-- [ ] Glute bridges left
-- [ ] Glute bridges right
+- [ ] Glute bridges left/right
 - [ ] 90 / 90 lift left
 - [ ] 90 / 90 lift right
 {% else -%}
 - [ ] Starfish
-- [ ] Starfish
 - [ ] Y raise
 - [ ] Floor kettle bell pull 
 {% endif -%}
-- [ ] 20 Kettle bell lifts
-
-### Before meal 3
-
-- [ ] Take medication
-- [ ] Chin tucks
 
 # Before coke
 
 - [ ] Lift feet (tibia)
+- [ ] 20 Kettle bell lifts
 - [ ] Starfish
 
 # Before Cb or p
 
-- [ ] 90 / 90 lift left
-- [ ] 90 / 90 lift right
+- [ ] 90 / 90 lift left/right
 - [ ] Squats
 - [ ] Lunges
 
 ### Before sleep
 
-- [ ] Take medication
 - [ ] Floss
-- [ ] Apply minox
 - [ ] Make shakes
-- [ ] Tidy room
 - [ ] Grind coffee
 - [ ] Apply mouth and nose bridge tape
 - [ ] Fill water
-- [ ] Plan day ahea
+- [ ] Plan day ahead
