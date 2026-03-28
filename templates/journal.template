@@ -4,16 +4,27 @@ tags: []
 
 ## Schedule
 
-### Before meal & coffee
+### Before workout
+
+- [ ] Take Iron + Vit c
+- [ ] Brush Teeth
+
+#### Rules
+
+- [ ] Always get into gym clothes straight away, even if you're not going gym. Do not re-enter room after leaving to brush your teeth.
+
+### Before 1st meal & coffee
 
 - [ ] Take medication
-- [ ] Apply minox
 - [ ] Wash face
-- [ ] Chin tucks
-- [ ] 20 Kettle bell pulls
-- [ ] Anki until 7AM
+- [ ] Shower
+- [ ] Ointment
 
-### Before leaving out / using phone or laptop
+#### Rules
+
+You can have a cup of shake (or equivalent in protein) straight away.
+
+### Before using phone or laptop
 
 - [ ] Neck stretch v1
 - [ ] Neck stretch v2
@@ -21,50 +32,55 @@ tags: []
 
 ### Before meal 2 + coffee 2
 
-- [ ] Take medication
 {% if workout=="core" -%}
-- [ ] Bycicle crunches
-- [ ] Abs hold
+  #### Home
+
+- [ ] Crunches
+- [ ] Reverse Crunches
 - [ ] Plank
 - [ ] Russian Twists
+
+  #### Gym
+
+- [ ] Crunches
+- [ ] Reverse crunches
 {% elif workout=="legs" -%}
-- [ ] Glute bridges left
-- [ ] Glute bridges right
-- [ ] 90 / 90 lift left
-- [ ] 90 / 90 lift right
+  #### Home
+
+- [ ] Hip Thrust left
+- [ ] Hip Thrust right
+- [ ] Bulgarian Split Squat
+
+  #### Gym
+
+- [ ] Glute bridge barbell
+- [ ] Bulgarian Split Squat
 {% else -%}
+  #### Gym
+
+- [ ] Face pull
+- [ ] Pullups
+
+  #### Home
+
 - [ ] Starfish
 - [ ] Starfish
 - [ ] Y raise
 - [ ] Floor kettle bell pull 
 {% endif -%}
-- [ ] 20 Kettle bell lifts
 
 ### Before meal 3
 
-- [ ] Take medication
 - [ ] Chin tucks
-
-# Before coke
-
-- [ ] Lift feet (tibia)
+- [ ] Tibialis raise
 - [ ] Starfish
-
-# Before Cb or p
-
-- [ ] 90 / 90 lift left
-- [ ] 90 / 90 lift right
-- [ ] Squats
-- [ ] Lunges
 
 ### Before sleep
 
-- [ ] Take medication
-- [ ] Floss
-- [ ] Apply minox
+- [ ] Plan day ahead
 - [ ] Make shakes
-- [ ] Tidy room
 - [ ] Grind coffee
-- [ ] Apply mouth and nose bridge tape
 - [ ] Fill water
-- [ ] Plan day ahea
+- [ ] Tidy room
+- [ ] Floss
+- [ ] Apply mouth tape
