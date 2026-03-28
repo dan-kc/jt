@@ -33,41 +33,41 @@ You can have a cup of shake (or equivalent in protein) straight away.
 ### Before meal 2 + coffee 2
 
 {% if workout=="core" -%}
-  #### Home
+#### Home
 
 - [ ] Crunches
 - [ ] Reverse Crunches
 - [ ] Plank
 - [ ] Russian Twists
 
-  #### Gym
+#### Gym
 
 - [ ] Crunches
 - [ ] Reverse crunches
 {% elif workout=="legs" -%}
-  #### Home
+#### Home
 
 - [ ] Hip Thrust left
 - [ ] Hip Thrust right
 - [ ] Bulgarian Split Squat
 
-  #### Gym
+#### Gym
 
 - [ ] Glute bridge barbell
 - [ ] Bulgarian Split Squat
 {% else -%}
-  #### Gym
+#### Gym
 
 - [ ] Face pull
 - [ ] Pullups
 
-  #### Home
+#### Home
 
 - [ ] Starfish
 - [ ] Starfish
 - [ ] Y raise
 - [ ] Floor kettle bell pull 
-{% endif -%}
+{% endif %}
 
 ### Before meal 3
 
