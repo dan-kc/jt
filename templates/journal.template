@@ -11,27 +11,9 @@ tags: []
 
 #### Rules
 
-- [ ] Always get into gym clothes straight away, even if you're not going gym. Do not re-enter room after leaving to brush your teeth.
+- Always get into gym clothes straight away, even if you're not going gym. Do not re-enter room after leaving to brush your teeth.
 
 ### Before 1st meal & coffee
-
-- [ ] Take medication
-- [ ] Wash face
-- [ ] Shower
-- [ ] Ointment
-
-#### Rules
-
-You can have a cup of shake (or equivalent in protein) straight away.
-
-### Before using phone or laptop
-
-- [ ] Neck stretch v1
-- [ ] Neck stretch v2
-- [ ] Hand stretches
-
-### Before meal 2 + coffee 2
-
 {% if workout=="core" -%}
 #### Home
 
@@ -67,7 +49,24 @@ You can have a cup of shake (or equivalent in protein) straight away.
 - [ ] Starfish
 - [ ] Y raise
 - [ ] Floor kettle bell pull 
-{% endif %}
+{% endif -%}
+- [ ] Take medication
+- [ ] Wash face
+- [ ] Shower
+- [ ] Ointment
+
+#### Rules
+
+- You can have a cup of shake (or equivalent in protein) straight away.
+
+### Before using phone or laptop
+
+- [ ] Neck stretch v1
+- [ ] Neck stretch v2
+- [ ] Hand stretches
+
+### Before meal 2 + coffee 2
+
 ### Before meal 3
 
 - [ ] Chin tucks
