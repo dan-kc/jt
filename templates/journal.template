@@ -14,6 +14,7 @@ tags: []
 - Always get into gym clothes straight away, even if you're not going gym. Do not re-enter room after leaving to brush your teeth.
 
 ### Before 1st meal & coffee
+
 {% if workout=="core" -%}
 #### Home
 
